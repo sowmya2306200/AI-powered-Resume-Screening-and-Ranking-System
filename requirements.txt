@@ -1,0 +1,8 @@
+pdfminer3
+pyresparser
+streamlit
+pandas
+streamlit-tags
+TfidfVectorizer
+nltk
+spacy==2.3.5
