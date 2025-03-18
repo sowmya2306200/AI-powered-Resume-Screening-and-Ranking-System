@@ -22,7 +22,6 @@ An AI-powered resume screening and ranking system uses advanced machine learning
 - `app3.py` is the main Python file of Streamlit Web-Application. 
 
   streamlit run app3.py
-  ```
 - `Uploaded_Resumes` folder is contaning the user's uploaded resume
 
 ## Screenshots
