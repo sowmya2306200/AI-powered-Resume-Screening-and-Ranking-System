@@ -23,6 +23,8 @@ An AI-powered resume screening and ranking system uses advanced machine learning
 
   streamlit run app3.py
 - `Uploaded_Resumes` folder is contaning the user's uploaded resume
+ https://github.com/sowmya2306200/AI-powered-Resume-Screening-and-Ranking-System/blob/2a4dbcf76877ebd3a670de90ba55a748c8a2b81b/IOS1.pdf
+
 
 ## Screenshots
 <img src="https://github.com/sowmya2306200/AI-powered-Resume-Screening-and-Ranking-System/blob/68792545b64ff41381a99645400d7ab92b3e7b48/scr1.jpg>
